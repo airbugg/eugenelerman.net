@@ -37,22 +37,22 @@ url = "https://www.facebook.com/airbug"
 [[menu.main]]
 name = "/"
 url = "/"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Posts"
 url = "/posts"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "CV"
-url = "/Eugene_Lerman_CV___May_2020.pdf"
-weight = 4
+url = "/curriculum-vitae.pdf"
+weight = 3
 
 [[menu.main]]
 name = "Watchlist"
 url = "/posts/hard"
-weight = 1
+weight = 4
 
 [[menu.main]]
 name = "About"
