@@ -1,6 +1,7 @@
 ---
 title: Hard Normal Daddy
 description: logos
+date: "2020-05-10"
 tldr: These interviews helped me change for the better.
 draft: false
 ---
