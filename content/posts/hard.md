@@ -1,8 +1,8 @@
 ---
 title: Hard Normal Daddy
-description: What it says on the lid, folks
-date: 10/05/2020
-tldr: Welcome Welcome Welcome
+description: Welcome Welcome Welcome
+date: 2020/05
+tldr: These interviews helped me change for the better.
 draft: false
 ---
 
