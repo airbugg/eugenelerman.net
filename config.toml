@@ -13,7 +13,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	subtitle = "Shalom"
+	# subtitle = "Shalom"
 
 # Social Tags
 
@@ -57,4 +57,9 @@ weight = 5
 [[menu.main]]
 name = "Projects"
 url = "https://github.com/airbugg"
+weight = 6
+
+[[menu.main]]
+name = "Watchlist"
+url = "https://www.notion.so/logoff/Hard-Normal-Daddy-45f10fa0af7d495085c2ca6e29cb2d63"
 weight = 6
