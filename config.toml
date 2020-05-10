@@ -51,7 +51,7 @@ weight = 3
 
 [[menu.main]]
 name = "CV"
-url = "Eugene_Lerman_CV___May_2020.pdf"
+url = "/Eugene_Lerman_CV___May_2020.pdf"
 weight = 5
 
 [[menu.main]]
@@ -61,5 +61,5 @@ weight = 6
 
 [[menu.main]]
 name = "Watchlist"
-url = "hard"
+url = "/posts/hard"
 weight = 6
