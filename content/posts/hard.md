@@ -2,7 +2,7 @@
 title: Hard Normal Daddy
 description: logos
 tldr: These interviews helped me change for the better.
-draft: true
+draft: false
 ---
 
 ### Documentary: A Glitch in the Matrix
