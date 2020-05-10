@@ -35,7 +35,7 @@ url = "https://www.facebook.com/airbug"
 # Main menu Items
 
 [[menu.main]]
-name = "Home"
+name = "/"
 url = "/"
 weight = 1
 
@@ -50,16 +50,11 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
-
-[[menu.main]]
 name = "CV"
 url = "Eugene_Lerman_CV___May_2020.pdf"
 weight = 5
 
 [[menu.main]]
 name = "Projects"
-url = "/projects"
+url = "https://github.com/airbugg"
 weight = 6
