@@ -1,9 +1,8 @@
 ---
 title: Hard Normal Daddy
-description: Welcome Welcome Welcome
-date: 2020/05
+description: logos
 tldr: These interviews helped me change for the better.
-draft: false
+draft: true
 ---
 
 ### Documentary: A Glitch in the Matrix
