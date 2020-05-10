@@ -7,8 +7,9 @@ draft: false
 ---
 
 # Hard Normal Daddy
+{{< youtube zQCTeGKHsVc >}}
 
-[https://youtu.be/zQCTeGKHsVc](https://youtu.be/zQCTeGKHsVc)
+<!-- [https://youtu.be/zQCTeGKHsVc](https://youtu.be/zQCTeGKHsVc) -->
 
 Jordan: the documentary captures the essence of what Peterson is about, what he stands for, and what our society is willing (and able) to try to do to men like these. The thing that keeps bringing me back to Jordan's work is his emphasis on improving yourself before trying to tackle the world. and in his tackling, you can clearly see how truth, morality and integrity can and DO withstand in the face of cowardice, malice and evil. 
 
