@@ -2,6 +2,7 @@
 title: Reading List
 description: “′Classic′ – a book which people praise and don’t read.” -- Mark Twain
 date: "2020-05-11"
+author: "Eugene Lerman"
 draft: false
 ---
 

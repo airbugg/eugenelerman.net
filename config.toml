@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Eugene Lerman"
 theme="archie"
 copyright = "© Eugene Lerman"
+
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
@@ -13,9 +14,6 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-	# subtitle = "Shalom"
-
-# Social Tags
 
 [[params.social]]
 name = "GitHub"
@@ -32,7 +30,7 @@ name = "Facebbok"
 icon = "facebook"
 url = "https://www.facebook.com/airbug"
 
-# Main menu Items
+# Menu Items
 
 [[menu.main]]
 name = "/"
