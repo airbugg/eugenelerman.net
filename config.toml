@@ -1,8 +1,8 @@
 baseURL = "https://eugenelerman.net/"
 languageCode = "en-us"
-title = "Женя Lerman"
+title = "Eugene Lerman"
 theme="archie"
-copyright = "© Eugen Lerman"
+copyright = "© Eugene Lerman"
 # Code Highlight
 pygmentsstyle = "monokai"
 pygmentscodefences = true
