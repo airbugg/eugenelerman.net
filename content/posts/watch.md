@@ -20,8 +20,11 @@ Here's a question: Can you be a feminist without thinking there's something inhe
 ### Dr. Jordan B Peterson
 <!-- [https://www.youtube.com/watch?v=kzOn9M2Kucw](https://www.youtube.com/watch?v=kzOn9M2Kucw) -->
 {{< youtube kzOn9M2Kucw >}}
-I have been somewhat versed in the teachings of Dr. Peterson. This interview, better than any other conversation, lecture or even his book - 12 rules for life - showed me a glimpse of what real masculinity looks like. Distraught by terrible family circumstances, Jordan still agreed to participate in a full hour interview, in which you can palpably feel his emotional torment and hear the strain in his voice. It was difficult to watch. An every day human-being that strove, and still does, to be better.
-
+> "You're okay the way you are" is not the right story. 
+> The right story is, "You're way less than you could be." 
+> That's what ignites the fire within.
+> 
+> --- Jordan Peterson
 ### Stephen Wolfram: Cellular Automata, Computation, and Physics | AI Podcast #89 with Lex Fridman
 <!-- [https://youtu.be/ez773teNFYA](https://youtu.be/ez773teNFYA) -->
 {{< youtube ez773teNFYA >}}
