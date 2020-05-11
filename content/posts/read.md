@@ -1,6 +1,6 @@
 ---
 title: Reading List
-description: Books to take note of
+description: “′Classic′ – a book which people praise and don’t read.” -- Mark Twain
 date: "2020-05-11"
 draft: false
 ---

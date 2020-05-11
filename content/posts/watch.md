@@ -1,8 +1,7 @@
 ---
 title: Watchlist
-description: These interviews helped me change for the better.
+description: A bunch of ideas worth sharing, music worth hearing and people worth seeing.
 date: "2020-05-10"
-tldr: Hard Normal Daddy
 draft: false
 ---
 ### ELEW (Eric Lewis): A Career Made One Move at a Time
