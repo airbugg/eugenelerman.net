@@ -1,6 +1,6 @@
 baseURL = "https://eugenelerman.net/"
 languageCode = "en-us"
-title = "Eugene Lerman"
+title = "Женя Lerman"
 theme="archie"
 copyright = "© Eugen Lerman"
 # Code Highlight
@@ -46,12 +46,12 @@ weight = 2
 
 [[menu.main]]
 name = "Watchlist"
-url = "/posts/hard"
+url = "/posts/watch"
 weight = 3
 
 [[menu.main]]
 name = "Reading List"
-url = "/read"
+url = "/posts/read"
 weight = 4
 
 [[menu.main]]

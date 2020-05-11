@@ -1,8 +1,8 @@
 ---
-title: Hard Normal Daddy
-description: logos
+title: Watchlist
+description: These interviews helped me change for the better.
 date: "2020-05-10"
-tldr: These interviews helped me change for the better.
+tldr: Hard Normal Daddy
 draft: false
 ---
 
