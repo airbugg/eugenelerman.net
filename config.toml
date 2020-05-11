@@ -40,21 +40,21 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
+name = "/posts"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "Watchlist"
+name = "/watchlist"
 url = "/posts/watch"
 weight = 3
 
 [[menu.main]]
-name = "Reading List"
+name = "/reading"
 url = "/posts/read"
 weight = 4
 
 [[menu.main]]
-name = "CV"
+name = "/cv"
 url = "/curriculum-vitae.pdf"
 weight = 5
