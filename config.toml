@@ -1,7 +1,7 @@
 baseURL = "https://eugenelerman.net/"
 languageCode = "en-us"
 title = "Eugene Lerman"
-theme="hugo-theme-console"
+theme="archie"
 copyright = "© Eugene Lerman"
 
 # Code Highlight
@@ -14,6 +14,7 @@ paginate=3 # articles per page
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
+  titleCutting = true
 
 [[params.social]]
 name = "GitHub"

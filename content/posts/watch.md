@@ -28,7 +28,7 @@ Somewhere on the road between Stalingrad and Forever21, something essential got 
 Eric works through a bottle of red wine on air with social, literary and artistic theorist Anna Khachiyan (co-host of the explosive and popular Red Scare podcast) to find out what is brewing on the anti-woke Left among the intellectual daughters of Camille Paglia. 
 Anna takes us through her project of the reconstructed feminine combining irreverent intellectual dominance with a return to valuing motherhood informed by her claims on Soviet & American heritage. The intellectual foundation of the intersectional “oppression Olympics” and reparations discussion is further dissected amidst the twin specters of the Armenian & Jewish genocides which mysteriously appear not to register at all with today’s progressives. 
 
-Here's a question: Can you be a feminist without thinking there's something inherently wrong with men, society or culture? Sure - just believe in the individual.
+> "It sucks being Russian, you see the chessboard" -- Anna Khachiyan
 
 ## Stephen Wolfram: Cellular Automata, Computation, and Physics | AI Podcast #89 with Lex Fridman
 {{< youtube ez773teNFYA >}}
@@ -52,8 +52,6 @@ There was however, a remarkable story of science at its both best and worst that
 
 {{< youtube f-wWBGo6a2w >}}
 ## Biblical Series I: Introduction to the Idea of God
-
-I am hopeful this lecture (first of a series) expands your mind, as it did mine, dear reader
 
 {{< youtube fIrs3KnPsUw >}}
 ## Judaism, Israel, and Religion in America | Rabbi Wolpe | SPIRITUALITY | Rubin Report
