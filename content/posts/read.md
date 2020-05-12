@@ -2,8 +2,6 @@
 title: Reading List
 description: “′Classic′ – a book which people praise and don’t read.” -- Mark Twain
 date: "2020-05-11"
-author: "Eugene Lerman"
-draft: false
 ---
 
 > “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.” 

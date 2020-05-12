@@ -1,7 +1,7 @@
 baseURL = "https://eugenelerman.net/"
 languageCode = "en-us"
 title = "Eugene Lerman"
-theme="archie"
+theme="hugo-theme-console"
 copyright = "© Eugene Lerman"
 
 # Code Highlight
@@ -30,8 +30,7 @@ name = "Facebbok"
 icon = "facebook"
 url = "https://www.facebook.com/airbug"
 
-# Menu Items
-
+# archie menu items
 [[menu.main]]
 name = "/"
 url = "/"
@@ -56,3 +55,20 @@ weight = 4
 name = "/cv"
 url = "/curriculum-vitae.pdf"
 weight = 5
+
+# hugo-theme-console menu items
+[[params.navlinks]]
+name = "posts/"
+url = "posts/"
+
+[[params.navlinks]]
+name = "watchlist/"
+url = "/posts/watch"
+
+[[params.navlinks]]
+name = "reading list/"
+url = "/posts/reading"
+
+[[params.navlinks]]
+name = "cv/"
+url = "/curriculum-vitae.pdf"
