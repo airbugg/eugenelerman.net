@@ -8,7 +8,10 @@ draft: false
 ### ELEW (Eric Lewis): A Career Made One Move at a Time
 <!-- [https://youtu.be/yLfq17MLPwc](https://youtu.be/yLfq17MLPwc) -->
 {{< youtube yLfq17MLPwc >}}
-Eric Lewis' career has circulated both in and out of what he calls "the jazz republic." Performing under his given name in the 1990s, he was a powerful up-and-coming pianist who toured in the bands of Wynton Marsalis and Elvin Jones. As his career progressed -- or failed to, from a business perspective -- he found that a lot of contemporary rock music also spoke to him deeply. So performing under the name ELEW, he devised a new theatrical, high-energy method of solo piano he called rockjazz, and his cover songs took him to TED Conferences, national tours, America's Got Talent, celebrity gatherings and the White House. But he never left the late-night straight-ahead jam sessions: In fact, he's just recorded And To The Republic, a return to the jazz trio format featuring some major players.
+> Eric Lewis is an open portal, a wonderful friend and one of the most important pianists in the world by our measure. As such, we will not bother with further notes for this episode. 
+> If you love the quest of the show as well as authentic soulful music, this is your guy.
+> 
+> --- Eric Weinstein, [on his interview](https://www.youtube.com/watch?v=ufrR98sR7XY) with ELEW
 
 ### Dr. Jordan B. Peterson
 <!-- [https://www.youtube.com/watch?v=kzOn9M2Kucw](https://www.youtube.com/watch?v=kzOn9M2Kucw) -->
