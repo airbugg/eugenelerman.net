@@ -9,12 +9,12 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-166079199-1"
-paginate=3 # articles per page
+# paginate=3 # articles per page
 
 [params]
 	mode="auto" # color-mode → light,dark or auto
 	featherIconsCDN=true
-  titleCutting = true
+  # titleCutting = true
 
 [[params.social]]
 name = "GitHub"
@@ -48,7 +48,7 @@ url = "/posts/watch"
 weight = 3
 
 [[menu.main]]
-name = "/reading list"
+name = "/recommended reading"
 url = "/posts/read"
 weight = 4
 

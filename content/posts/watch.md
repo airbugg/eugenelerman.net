@@ -50,15 +50,15 @@ On this episode of The Portal, Bret and Eric sit down alone with each other for 
 There was however, a remarkable story of science at its both best and worst that had not been told in years. After an initial tussle, we dusted off the cobwebs and decided to reconstruct it raw and share it with you, our Portal audience, for the first time. I don't think it will be the last as we are now again looking for our old notes to tighten it up for the next telling. We hope you find it interesting, and that it inspires you younger and less established scientists to tell your stories using this new medium of long form podcasting. We hope the next place you hear this story will be in a biology department seminar room in perhaps Cambridge, Chicago, Princeton, the Bay Area or elsewhere. Until then, be well and have a listen to this initial and raw version.
 
 
-{{< youtube f-wWBGo6a2w >}}
 ## Biblical Series I: Introduction to the Idea of God
+{{< youtube f-wWBGo6a2w >}}
 
-{{< youtube fIrs3KnPsUw >}}
 ## Judaism, Israel, and Religion in America | Rabbi Wolpe | SPIRITUALITY | Rubin Report
+{{< youtube fIrs3KnPsUw >}}
 
 On the importance of being a decent human being from the perspective of religion.
 
-{{< youtube Th1t1UvnYP4 >}}
 ## Jocko Podcast 219 w/ Rose Schindler: Auschwitz Survivor. Never Give Up Hope.
+{{< youtube Th1t1UvnYP4 >}}
 
 On the importance of hope and the mournful privilege of being Jewish.
