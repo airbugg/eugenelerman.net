@@ -43,7 +43,7 @@ url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "/watchlist"
+name = "/recommended videos"
 url = "/posts/watch"
 weight = 3
 
@@ -63,11 +63,11 @@ name = "posts/"
 url = "posts/"
 
 [[params.navlinks]]
-name = "watchlist/"
+name = "recommended videos/"
 url = "/posts/watch"
 
 [[params.navlinks]]
-name = "reading list/"
+name = "recommended reading/"
 url = "/posts/reading"
 
 [[params.navlinks]]

@@ -1,5 +1,5 @@
 ---
-title: "Watchlist"
+title: "Recommended Videos"
 description: "A bunch of ideas worth sharing, music worth hearing and people worth seeing"
 date: "2020-05-10"
 ---
