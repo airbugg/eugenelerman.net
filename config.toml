@@ -44,12 +44,12 @@ weight = 2
 
 [[menu.main]]
 name = "/recommended videos"
-url = "/posts/watch"
+url = "/watchlist"
 weight = 3
 
 [[menu.main]]
 name = "/recommended reading"
-url = "/posts/read"
+url = "/recommended-reading"
 weight = 4
 
 [[menu.main]]
