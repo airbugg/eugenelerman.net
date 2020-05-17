@@ -9,6 +9,7 @@ date: "2020-05-11"
 > --- George R.R. Martin, A Dance with Dragons
 
 - [(Currently Reading) Aleksandr Solzhenitsyn - The Gulag Archipelago](https://www.amazon.com/The-Gulag-Archipelago/dp/B07PQY9PVL)
+- [(Currently Reading) Dan Crenshaw - Fortitude](https://www.amazon.com/Fortitude-American-Resilience-Era-Outrage/dp/1538733307)
 - [Charles Stross - Accelerando](https://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151)
 - [Robert M. Pirsig  - Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) 
 - [Michel Houellebecq - Serotonin](https://www.amazon.com/Serotonin-Novel-Michel-Houellebecq/dp/0374261024) 
