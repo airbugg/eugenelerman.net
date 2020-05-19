@@ -4,7 +4,7 @@ description: “′Classic′ – a book which people praise and don’t read.�
 date: "2020-05-11"
 ---
 
-> “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.” 
+> “A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”
 >
 > --- George R.R. Martin, A Dance with Dragons
 
@@ -12,15 +12,15 @@ date: "2020-05-11"
 - [(Currently Reading) Dan Crenshaw - Fortitude](https://www.amazon.com/Fortitude-American-Resilience-Era-Outrage/dp/1538733307)
 - [Charles Stross - Accelerando](https://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151)
 - [Neil Gaiman - The Graveyard Book (Read by the Author)](https://www.audible.com/pd/The-Graveyard-Book-Audiobook/B002V8DEKC)
-- [Robert M. Pirsig  - Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469) 
-- [Michel Houellebecq - Serotonin](https://www.amazon.com/Serotonin-Novel-Michel-Houellebecq/dp/0374261024) 
-- [Ian M. Banks - The Algebraist](https://www.amazon.com/The-Algebraist/dp/B076MHMRMH/) 
-- [Ian M. Banks - Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) 
-- [Dan Simmons - Hyperion Cantos](https://www.amazon.com/Hyperion-Cantos-4-Book-Series/dp/B00PL9SWJQ) 
-- [James Gleick - The Information: A History, a Theory, a Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) 
-- [James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453) 
-- [Paolo Bacigalupi - Windup Girl](https://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801585) 
-- [Paolo Bacigalupi - The Water Knife](https://www.amazon.com/Water-Knife-Paolo-Bacigalupi/dp/080417153X) 
+- [Robert M. Pirsig  - Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
+- [Michel Houellebecq - Serotonin](https://www.amazon.com/Serotonin-Novel-Michel-Houellebecq/dp/0374261024)
+- [Ian M. Banks - The Algebraist](https://www.amazon.com/The-Algebraist/dp/B076MHMRMH/)
+- [Ian M. Banks - Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas)
+- [Dan Simmons - Hyperion Cantos](https://www.amazon.com/Hyperion-Cantos-4-Book-Series/dp/B00PL9SWJQ)
+- [James Gleick - The Information: A History, a Theory, a Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235)
+- [James Gleick - Chaos: Making a New Science](https://www.amazon.com/Chaos-Making-Science-James-Gleick/dp/0143113453)
+- [Paolo Bacigalupi - Windup Girl](https://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801585)
+- [Paolo Bacigalupi - The Water Knife](https://www.amazon.com/Water-Knife-Paolo-Bacigalupi/dp/080417153X)
 - [Robert A. Heinlein - The Moon is a Harsh Mistress](https://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551)
 - [Robert A. Heinlein - Stranger in a Strange Land](https://www.amazon.com/Stranger-Strange-Land-Robert-Heinlein/dp/1442005831)
 - [Alfred Bester - The Stars My Destination](https://www.amazon.com/Stars-My-Destination-Alfred-Bester/dp/1876963468)
