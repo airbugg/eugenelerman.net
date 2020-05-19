@@ -52,11 +52,6 @@ name = "/recommended reading"
 url = "/recommended-reading"
 weight = 4
 
-[[menu.main]]
-name = "/cv"
-url = "/curriculum-vitae.pdf"
-weight = 5
-
 # hugo-theme-console menu items
 [[params.navlinks]]
 name = "posts/"
