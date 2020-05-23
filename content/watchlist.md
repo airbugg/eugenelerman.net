@@ -5,38 +5,42 @@ date: "2020-05-10"
 ---
 
 ## ELEW (Eric Lewis): A Career Made One Move at a Time
+
 {{< youtube yLfq17MLPwc >}}
 
-> Eric Lewis is an open portal, a wonderful friend and one of the most important pianists in the world by our measure. As such, we will not bother with further notes for this episode. 
+> Eric Lewis is an open portal, a wonderful friend and one of the most important pianists in the world by our measure. As such, we will not bother with further notes for this episode.
 > If you love the quest of the show as well as authentic soulful music, this is your guy.
-> 
+>
 > --- Eric Weinstein, [on his interview](https://www.youtube.com/watch?v=ufrR98sR7XY) with ELEW
 
 ---
 
 ## Dr. Jordan B. Peterson
+
 {{< youtube kzOn9M2Kucw >}}
 
-> "You're okay the way you are" is not the right story. 
-> The right story is, "You're way less than you could be." 
+> "You're okay the way you are" is not the right story.
+> The right story is, "You're way less than you could be."
 > That's what ignites the fire within.
-> 
+>
 > --- Jordan Peterson
 
 ---
 
-## Anna Khachiyan, Ep. #017 of The Portal (with Eric Weinstein) - Reconstructing The Mystical Feminine.
+## Anna Khachiyan, Ep. #017 of The Portal (with Eric Weinstein) - Reconstructing The Mystical Feminine
+
 {{< youtube Gs8NGrWs3mc >}}
 
-Somewhere on the road between Stalingrad and Forever21, something essential got misplaced amidst the bathos. 
-Eric works through a bottle of red wine on air with social, literary and artistic theorist Anna Khachiyan (co-host of the explosive and popular Red Scare podcast) to find out what is brewing on the anti-woke Left among the intellectual daughters of Camille Paglia. 
-Anna takes us through her project of the reconstructed feminine combining irreverent intellectual dominance with a return to valuing motherhood informed by her claims on Soviet & American heritage. The intellectual foundation of the intersectional “oppression Olympics” and reparations discussion is further dissected amidst the twin specters of the Armenian & Jewish genocides which mysteriously appear not to register at all with today’s progressives. 
+Somewhere on the road between Stalingrad and Forever21, something essential got misplaced amidst the bathos.
+Eric works through a bottle of red wine on air with social, literary and artistic theorist Anna Khachiyan (co-host of the explosive and popular Red Scare podcast) to find out what is brewing on the anti-woke Left among the intellectual daughters of Camille Paglia.
+Anna takes us through her project of the reconstructed feminine combining irreverent intellectual dominance with a return to valuing motherhood informed by her claims on Soviet & American heritage. The intellectual foundation of the intersectional “oppression Olympics” and reparations discussion is further dissected amidst the twin specters of the Armenian & Jewish genocides which mysteriously appear not to register at all with today’s progressives.
 
 > "It sucks being Russian, you see the chessboard" -- Anna Khachiyan
 
 ---
 
 ## Stephen Wolfram: Cellular Automata, Computation, and Physics | AI Podcast #89 with Lex Fridman
+
 {{< youtube ez773teNFYA >}}
 
 The title says it all, basically, but here's my take: Here is a man who is (rightfully) proud of his past successes, fearlessly marching forward with new, somewhat radical, but mostly compelling ideas about the nature of reality and computation. Better than String Theory physics, in my opinion.
@@ -44,16 +48,18 @@ The title says it all, basically, but here's my take: Here is a man who is (righ
 ---
 
 ## Documentary: A Glitch in the Matrix
+
 {{< youtube zQCTeGKHsVc >}}
 
 Journalist David Fuller made the first full documentary about Jordan Peterson, and also used to work at Channel 4 News as producer and reporter for over a decade. He takes a close look at the recent viral interview with Cathy Newman and uses this cultural watershed to unpack the deeper political, psychological and archetypal levels of the clash.
 
 ---
 
-## Bret Weinstein on "The Portal" (w/ host Eric Weinstein), Ep. #019 - The Prediction and the DISC.
+## Bret Weinstein on "The Portal" (w/ host Eric Weinstein), Ep. #019 - The Prediction and the DISC
+
 {{< youtube JLb5hZLw44s >}}
 
-All of our Mice are Broken. 
+All of our Mice are Broken.
 
 On this episode of The Portal, Bret and Eric sit down alone with each other for the first time in public. There was no plan.
 
@@ -62,18 +68,21 @@ There was however, a remarkable story of science at its both best and worst that
 ---
 
 ## Biblical Series I: Introduction to the Idea of God
+
 {{< youtube f-wWBGo6a2w >}}
 
 ---
 
 ## Judaism, Israel, and Religion in America | Rabbi Wolpe | SPIRITUALITY | Rubin Report
+
 {{< youtube fIrs3KnPsUw >}}
 
 On the importance of being a decent human being from the perspective of religion.
 
 ---
 
-## Jocko Podcast 219 w/ Rose Schindler: Auschwitz Survivor. Never Give Up Hope.
+## Jocko Podcast 219 w/ Rose Schindler: Auschwitz Survivor. Never Give Up Hope
+
 {{< youtube Th1t1UvnYP4 >}}
 
 On the importance of hope and the mournful privilege of being Jewish.
