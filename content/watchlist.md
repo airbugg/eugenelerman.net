@@ -12,6 +12,8 @@ date: "2020-05-10"
 > 
 > --- Eric Weinstein, [on his interview](https://www.youtube.com/watch?v=ufrR98sR7XY) with ELEW
 
+---
+
 ## Dr. Jordan B. Peterson
 {{< youtube kzOn9M2Kucw >}}
 
@@ -20,6 +22,8 @@ date: "2020-05-10"
 > That's what ignites the fire within.
 > 
 > --- Jordan Peterson
+
+---
 
 ## Anna Khachiyan, Ep. #017 of The Portal (with Eric Weinstein) - Reconstructing The Mystical Feminine.
 {{< youtube Gs8NGrWs3mc >}}
@@ -30,15 +34,21 @@ Anna takes us through her project of the reconstructed feminine combining irreve
 
 > "It sucks being Russian, you see the chessboard" -- Anna Khachiyan
 
+---
+
 ## Stephen Wolfram: Cellular Automata, Computation, and Physics | AI Podcast #89 with Lex Fridman
 {{< youtube ez773teNFYA >}}
 
 The title says it all, basically, but here's my take: Here is a man who is (rightfully) proud of his past successes, fearlessly marching forward with new, somewhat radical, but mostly compelling ideas about the nature of reality and computation. Better than String Theory physics, in my opinion.
 
+---
+
 ## Documentary: A Glitch in the Matrix
 {{< youtube zQCTeGKHsVc >}}
 
 Journalist David Fuller made the first full documentary about Jordan Peterson, and also used to work at Channel 4 News as producer and reporter for over a decade. He takes a close look at the recent viral interview with Cathy Newman and uses this cultural watershed to unpack the deeper political, psychological and archetypal levels of the clash.
+
+---
 
 ## Bret Weinstein on "The Portal" (w/ host Eric Weinstein), Ep. #019 - The Prediction and the DISC.
 {{< youtube JLb5hZLw44s >}}
@@ -49,16 +59,23 @@ On this episode of The Portal, Bret and Eric sit down alone with each other for 
 
 There was however, a remarkable story of science at its both best and worst that had not been told in years. After an initial tussle, we dusted off the cobwebs and decided to reconstruct it raw and share it with you, our Portal audience, for the first time. I don't think it will be the last as we are now again looking for our old notes to tighten it up for the next telling. We hope you find it interesting, and that it inspires you younger and less established scientists to tell your stories using this new medium of long form podcasting. We hope the next place you hear this story will be in a biology department seminar room in perhaps Cambridge, Chicago, Princeton, the Bay Area or elsewhere. Until then, be well and have a listen to this initial and raw version.
 
+---
 
 ## Biblical Series I: Introduction to the Idea of God
 {{< youtube f-wWBGo6a2w >}}
+
+---
 
 ## Judaism, Israel, and Religion in America | Rabbi Wolpe | SPIRITUALITY | Rubin Report
 {{< youtube fIrs3KnPsUw >}}
 
 On the importance of being a decent human being from the perspective of religion.
 
+---
+
 ## Jocko Podcast 219 w/ Rose Schindler: Auschwitz Survivor. Never Give Up Hope.
 {{< youtube Th1t1UvnYP4 >}}
 
 On the importance of hope and the mournful privilege of being Jewish.
+
+---
