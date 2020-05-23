@@ -86,5 +86,3 @@ On the importance of being a decent human being from the perspective of religion
 {{< youtube Th1t1UvnYP4 >}}
 
 On the importance of hope and the mournful privilege of being Jewish.
-
----
