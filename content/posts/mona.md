@@ -1,6 +1,6 @@
 ---
 title: Mona
-description: “The stars of the Halo were like one big neon sign to her. The sign said: All the shoes you can eat.”
+description: "The stars of the Halo were like one big neon sign to her. The sign said: All the shoes you can eat."
 date: "2020-05-23"
 ---
 
