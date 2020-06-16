@@ -68,11 +68,11 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "recommended videos"
         name = "Recommended Videos"
-        url = "/posts/watch"
+        url = "/watchlist"
 	[[languages.en.menu.main]]
         identifier = "recommended reading"
         name = "Recommended Reading"
-        url = "/posts/reading"
+        url = "/recommended-reading"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
