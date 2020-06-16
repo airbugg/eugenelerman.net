@@ -1,70 +1,79 @@
-baseURL = "https://eugenelerman.net/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Eugene Lerman"
-theme="archie"
-copyright = "© Eugene Lerman"
-
-# Code Highlight
-pygmentsstyle = "monokai"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-googleAnalytics = "UA-166079199-1"
-# paginate=3 # articles per page
+theme = "terminal"
+paginate = 5
 
 [params]
-	mode="auto" # color-mode → light,dark or auto
-	featherIconsCDN=true
-  # titleCutting = true
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
 
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/airbugg"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/airbagy"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
 
-[[params.social]]
-name = "Facebbok"
-icon = "facebook"
-url = "https://www.facebook.com/airbug"
+  # show selector to switch language
+  showLanguageSelector = false
 
-# archie menu items
-# [[menu.main]]
-# name = "/"
-# url = "/"
-# weight = 1
+  # set theme to full screen width
+  fullWidthTheme = false
 
-[[menu.main]]
-name = "/posts"
-url = "/posts"
-weight = 2
+  # center theme with default width
+  centerTheme = false
 
-[[menu.main]]
-name = "/recommended videos"
-url = "/watchlist"
-weight = 3
+  # set a custom favicon (default is a `themeColor` square)
+  favicon = "favicon.ico"
 
-[[menu.main]]
-name = "/recommended reading"
-url = "/recommended-reading"
-weight = 4
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
 
-# hugo-theme-console menu items
-[[params.navlinks]]
-name = "posts/"
-url = "posts/"
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
 
-[[params.navlinks]]
-name = "recommended videos/"
-url = "/posts/watch"
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "airbagy"
+  site = ""
 
-[[params.navlinks]]
-name = "recommended reading/"
-url = "/posts/reading"
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Eugene Lerman"
+    subtitle = "Personal Site"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
 
-[[params.navlinks]]
-name = "cv/"
-url = "/curriculum-vitae.pdf"
+    [languages.en.params.logo]
+      logoText = "Eugene Lerman"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "recommended videos"
+        name = "Recommended Videos"
+        url = "/posts/watch"
+	[[languages.en.menu.main]]
+        identifier = "recommended reading"
+        name = "Recommended Reading"
+        url = "/posts/reading"
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
