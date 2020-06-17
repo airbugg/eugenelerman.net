@@ -4,9 +4,7 @@ description: "The stars of the Halo were like one big neon sign to her. The sign
 date: "2020-05-23"
 ---
 
-> “The stars of the Halo were like one big neon sign to her. The sign said: All the shoes you can eat.”
->
-> --- M. John Harris, Nova Swing
+> “The stars of the Halo were like one big neon sign to her. The sign said: All the shoes you can eat.” --- M. John Harris, Nova Swing
 
 Mona was quietly pacing the dark room. Tonight, like previous nights, was uneventful. She felt her cheeks burn. She couldn’t stand the sight of the lump on the bed, and she couldn’t bring herself to stir the lump awake. She exited the room.
 
