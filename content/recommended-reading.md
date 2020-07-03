@@ -4,6 +4,9 @@ description: “′Classic′ – a book which people praise and don’t read.�
 date: "2020-05-11"
 ---
 
+#### [Lulu Miller - Why Fish Don't Exist](https://www.audible.com/pd/Why-Fish-Dont-Exist-Audiobook/179710604X)
+> “You don't matter seems to fuel his every step, his every bite. So live as you please. He spent years riding a motorbike, drinks copious amounts of beer, and enters the water, whenever possible, with the belliest of flops. He seems to permit himself just one lie to constrain his otherwise voracious hedonism, to form a kind of moral code. While other people don't matter, either, treat them like they do.”
+
 #### [Aleksandr Solzhenitsyn - The Gulag Archipelago](https://www.amazon.com/The-Gulag-Archipelago/dp/B07PQY9PVL)
 > “The line separating good and evil passes not through states, nor between classes, nor between political parties either – but right through every human heart…even within hearts overwhelmed by evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains…an uprooted small corner of evil.”
 
