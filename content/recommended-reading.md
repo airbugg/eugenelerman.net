@@ -12,14 +12,19 @@ date: "2020-05-11"
 
 
 #### [Charles Stross - Accelerando](https://www.amazon.com/Accelerando-Singularity-Charles-Stross/dp/0441014151)
+> “Humans: such a brilliant model of emotional self-awareness," Aineko says with a theatrical sigh. "You're as stupid as it's possible for an intelligent species to be - there being no evolutionary pressure to be any smarter - but you still don't internalize that and act accordingly around your superiors. Listen, girl, everything you remember is true. That doesn't mean you remember it because it actually happened, just that you remember it because you experienced it internally. Your memories of experiences are accurate, but your emotional responses to those experiences were manipulated. Get it? One ape's hallucination is another ape's religious experience, it just depends on which one's god module is overactive at the time. That goes for all of you." Aineko looks around at them in mild contempt. "But I don't need you anymore, and if you do this one thing for me, you're going to be free. Understand? Say yes, Manfred; if you leave your mouth open like that, a bird will nest on your tongue.”
 
 #### [Robert M. Pirsig  - Zen and the Art of Motorcycle Maintenance](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060589469)
 > “If someone's ungrateful and you tell him he's ungrateful, okay, you've called him a name. You haven't solved anything.”
 
 #### [Michel Houellebecq - Serotonin](https://www.amazon.com/Serotonin-Novel-Michel-Houellebecq/dp/0374261024) 
+> "God takes care of us; he thinks of us every minute, and he gives us instructions that are sometimes very precise. Those surges of love that flow into our chests and take our breath away -- those illuminations, those ecstasies, inexplicable if we consider our biological nature, our status as simple primates-- are extremely clear signs.
+
+And today I understand Christ's point of view and his repeated horror at the hardening of people's hearts: all of these things are signs, and they don't realise it. Must I really, on top of everything else, give my life for these wretches? Do I really have to be explicit on that point?
+
+Apparently so."
 
 #### [Ian M. Banks - The Algebraist](https://www.amazon.com/The-Algebraist/dp/B076MHMRMH/) 
-
 > “You judged your own attractiveness - physically, psychologically and in terms of status - then you knew your level and could either raise or lower your sights accordingly, risking rejection but with the possibility of advancement, or settling for a more reliably stable life but never knowing what you might have achieved.”
 
 #### [Ian M. Banks - Consider Phlebas](https://www.goodreads.com/book/show/8935689-consider-phlebas) 
@@ -28,9 +33,6 @@ date: "2020-05-11"
 > "Yes," he replied, not taking his eyes away from the screen on the wall above the end of the main mess-room table. "My survival."
 >
 > "So... your religion dies with you. How sad," Dorolow said, looking back from Horza to the screen. 
-> 
-> The Changer let the remark pass.
-
 
 #### [Dan Simmons - Hyperion Cantos](https://www.amazon.com/Hyperion-Cantos-4-Book-Series/dp/B00PL9SWJQ)
 
@@ -45,10 +47,13 @@ date: "2020-05-11"
 #### [Robert A. Heinlein - The Moon is a Harsh Mistress](https://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551)
 
 #### [Robert A. Heinlein - Stranger in a Strange Land](https://www.amazon.com/Stranger-Strange-Land-Robert-Heinlein/dp/1442005831)
+> "I do know that the slickest way to lie is to tell the right amount of truth--then shut up."
 
 #### [Alfred Bester - The Stars My Destination](https://www.amazon.com/Stars-My-Destination-Alfred-Bester/dp/1876963468)
+> "This was a Golden Age, a time of high adventure, rich living and hard dying... but nobody thought so. This was a future of fortune and theft, pillage and rapine, culture and vice... but nobody admitted it. This was an age of extremes, a fascinating century of freaks... but nobody loved it."
 
 #### [Alfred Bester - The Demolished Man](https://www.amazon.com/Demolished-Man-Alfred-Bester/dp/1596879882)
+> "Be grateful that you only see the outward man. Be grateful that you never see the passions, the hatreds, the jealousies, the malice, the sicknesses... Be grateful you rarely see the frightening truth in people."
 
 #### [Walter M. Miller Jr. - A Canticle for Leibowitz](https://www.amazon.com/Canticle-Leibowitz-Walter-Miller-Jr/dp/0553273817)
 
